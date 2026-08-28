@@ -62,7 +62,7 @@ O backend segue uma separação simples entre rotas, middlewares, controllers e 
 
 ## 📱 Responsividade
 
-A interface foi trabalhada para se adaptar a diferentes tamanhos de tela. Em dispositivos menores, o formulário é compactado, os controles recebem dimensões adequadas para toque e a tabela pode ser rolada horizontalmente sem ultrapassar os limites da págin
+A interface foi trabalhada para se adaptar a diferentes tamanhos de tela. Em dispositivos menores, o formulário é compactado, os controles recebem dimensões adequadas para toque e a tabela pode ser rolada horizontalmente sem ultrapassar os limites da página.
 
 ## 📦 Pré-requisitos
 
