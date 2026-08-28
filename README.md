@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/31556742/README.md)
 # ✅ Lista de Tarefas - Projeto Fullstack
 
 ![Interface da lista de tarefas](backend/src/assets/img/1.jpg)
