@@ -60,6 +60,10 @@ Aplicação pessoal de lista de tarefas criada para praticar o desenvolvimento d
 
 O backend segue uma separação simples entre rotas, middlewares, controllers e models. O frontend é uma página estática que consome a API REST disponibilizada pelo servidor.
 
+## 📱 Responsividade
+
+A interface foi trabalhada para se adaptar a diferentes tamanhos de tela. Em dispositivos menores, o formulário é compactado, os controles recebem dimensões adequadas para toque e a tabela pode ser rolada horizontalmente sem ultrapassar os limites da págin
+
 ## 📦 Pré-requisitos
 
 - ✅ Node.js instalado
